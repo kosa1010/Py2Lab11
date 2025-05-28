@@ -152,7 +152,9 @@ plt.show()
 ```
 ## Zadania do  wykonania
 1. Rozwiąż układ równań
+   
  ![image](https://github.com/user-attachments/assets/13b2a1ed-0011-48ab-ac4c-e46740be2520)
+ 
 Znajdź `x` i `y` używając `scipy.linalg.solve`
 2. Znajdź minimum funkcji ![image](https://github.com/user-attachments/assets/106eca2f-fc8e-4878-bc6f-2feb9737f6af)
 3. Oblicz całkę oznaczoną z funkcji `f(x) = sin(x)` od `0` do `π`
